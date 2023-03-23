@@ -54,7 +54,7 @@ The API endpoints' request and response are described below.
                         "correct": true
                     },
                     {
-                        "description": "Sheesh",
+                        "description": "Meow",
                         "correct": false
                     }
                 ]
